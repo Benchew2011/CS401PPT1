@@ -1,1 +1,6 @@
 D:\CS401PPT1\cs401ppt1\cs401ppt1\bin\Debug\cs401ppt1.exe.config
+D:\CS401PPT1\cs401ppt1\cs401ppt1\bin\Debug\cs401ppt1.exe
+D:\CS401PPT1\cs401ppt1\cs401ppt1\bin\Debug\cs401ppt1.pdb
+D:\CS401PPT1\cs401ppt1\cs401ppt1\obj\Debug\cs401ppt1.csprojResolveAssemblyReference.cache
+D:\CS401PPT1\cs401ppt1\cs401ppt1\obj\Debug\cs401ppt1.exe
+D:\CS401PPT1\cs401ppt1\cs401ppt1\obj\Debug\cs401ppt1.pdb
